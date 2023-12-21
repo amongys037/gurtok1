@@ -1,0 +1,71 @@
+ body{
+ 	background: rgb(111, 111, 11, 1.0);
+ }
+
+ 
+
+ body{
+ 	text-align: center;
+ }
+
+ .secont_title {
+ 	color: #83ffff
+    font-weight: 600;
+    font-size: 50px;
+ }
+
+
+ h1 {
+ 	color: #82ffff;
+ 	font-size: 35px;
+ 	font-family: Verdana;
+ 	font-style: italic;
+ }
+
+
+ .secont_title {
+ 	 color: red;
+ }
+
+
+ .about_me{
+ 	font-family: Verdana;
+ 	text-decoration: underline;
+ }
+
+
+
+ table,th,td, .about_me{
+ 	border: solid orangered 3px   ;
+ }
+
+
+ th{
+   border: solid green 2pm;
+   background: green;
+   padding-left: 100px;
+   padding-right: 100px;
+ }
+
+
+
+ table{
+   margin-top: 100px;
+   margin-left: 650px;
+ }
+
+
+ .red_text{
+   color: gold;
+ }
+
+
+ .orange_text{
+   color: green;
+ }
+
+
+ .yellow_text{
+   color: blue;
+   margin-left: 1000px;
+ }
